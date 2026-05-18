@@ -1,1 +1,1 @@
-# iterptiniuSistemuProjektas
+# IterptiniuSistemuProjektas
