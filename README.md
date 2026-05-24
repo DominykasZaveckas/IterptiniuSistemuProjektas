@@ -1,3 +1,3 @@
-# IterptiniuSistemuProjektas
+# Temperatūros matavimo projektas
 
-Suprojektuotas temperatūros matuoklis naudojant LM335 jutiklį. Perduodami duomenys per I2C sąsają į ekraną ir išsiunčiami su UART sąsaja į kompiuterį.
+Suprojektuotas temperatūros matuoklis naudojant du LM335 jutiklius. Perduodami duomenys per I2C į 16x2 LCD ekraną ir išsiunčiami su UART sąsaja į kompiuterį.
